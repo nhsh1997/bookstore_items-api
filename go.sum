@@ -6,3 +6,5 @@ github.com/nhsh1997/bookstore_oauth-go v0.0.0-20200427071405-2da43c2cdea7 h1:aFS
 github.com/nhsh1997/bookstore_oauth-go v0.0.0-20200427071405-2da43c2cdea7/go.mod h1:6bZ5z9FqG92hvCW5G73QkL762MVDVTku4Hk20ul71SE=
 github.com/nhsh1997/bookstore_utils-go v0.0.0-20200427094656-da5bf3b64df7 h1:vgkulR3mm3eiPYI9bExVD9CHtB/NC3+s05KL4+rARcE=
 github.com/nhsh1997/bookstore_utils-go v0.0.0-20200427094656-da5bf3b64df7/go.mod h1:7ORvh1gnUoeqK5sOlii8NEU+Q4bjjb7DmmSep8gquXQ=
+github.com/nhsh1997/bookstore_utils-go v0.0.0-20200428075314-72ee4e990c9b h1:NlCocgVqOQETjqHtlABxrv66CmgKtVU2zhrjeJjPycY=
+github.com/nhsh1997/bookstore_utils-go v0.0.0-20200428075314-72ee4e990c9b/go.mod h1:7ORvh1gnUoeqK5sOlii8NEU+Q4bjjb7DmmSep8gquXQ=
