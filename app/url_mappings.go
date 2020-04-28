@@ -6,5 +6,5 @@ import (
 )
 
 func mapUrls()  {
-	router.HandleFunc("/items", controllers.Create).Methods(http.MethodPost)
+	router.HandleFunc("/items", controllers.ItemsController.Create).Methods(http.MethodPost)
 }

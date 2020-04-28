@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/bookstore_oauth-go/oauth"
+	"github.com/nhsh1997/bookstore_oauth-go/oauth"
 	"github.com/nhsh1997/bookstore_items-api/domain/items"
 	"github.com/nhsh1997/bookstore_items-api/services"
 	"net/http"
@@ -10,7 +10,7 @@ import (
 
 var (
 	ItemsController itemsControllerInterface = &itemsController{}
-) 
+)
 
 type itemsControllerInterface interface {
 	Create(http.ResponseWriter, *http.Request)
