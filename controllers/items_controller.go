@@ -3,6 +3,7 @@ package controllers
 import (
 	"github.com/bookstore_oauth-go/oauth"
 	"github.com/nhsh1997/bookstore_items-api/domain/items"
+	"github.com/nhsh1997/bookstore_items-api/services"
 	"net/http"
 )
 
