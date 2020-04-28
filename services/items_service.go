@@ -2,8 +2,8 @@ package services
 
 import (
 	"github.com/nhsh1997/bookstore_items-api/domain/items"
+	"github.com/nhsh1997/bookstore_utils-go/rest_errors"
 )
-import "github.com/nhsh1997/bookstore_utils-go/rest_errors"
 
 var(
 	ItemService itemServiceInterface = &itemService{}
